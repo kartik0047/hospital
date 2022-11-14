@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-zh#+h@(tulrck(imw83vaignlnuonhgembd3h*f8*u2sdf=!)*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://hospitalmgmt47.herokuapp.com/']
+ALLOWED_HOSTS = ['https://hospitalmgmt47.herokuapp.com']
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
