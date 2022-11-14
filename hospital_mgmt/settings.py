@@ -29,8 +29,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = ["127.0.0.1",'hospitalmgmt47.herokuapp.com']
 
-# # Activate Django-Heroku.
-# django_heroku.settings(locals())
+# Activate Django-Heroku.
+django_heroku.settings(locals())
 
 # Application definition
 INSTALLED_APPS = [
