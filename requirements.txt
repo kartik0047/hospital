@@ -20,7 +20,7 @@ incremental==22.10.0
 psycopg2==2.9.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycparser==2.21
+pycparser==2.21pip
 PyJWT==2.5.0
 pyOpenSSL==22.1.0
 pytz==2022.4
@@ -32,5 +32,4 @@ twisted-iocpsupport==1.0.2
 txaio==22.2.1
 typing_extensions==4.4.0
 tzdata==2022.5
-whitenoise==6.2.0
 zope.interface==5.5.1
